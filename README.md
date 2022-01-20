@@ -1,3 +1,3 @@
-# 1.ProjectKnockoutjsOk
+# 3.ProjectKnockoutjsOk
 
-Contador com Knockoutjs
+Fomulário e validações do preenchimento do mesmo com Knockoujs e plugin de validação.
